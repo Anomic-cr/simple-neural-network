@@ -214,7 +214,6 @@ class Neuron:
     def calculate_pd_total_net_input_wrt_weight(self, index):
         return self.inputs[index]
 
-###
 
 # Blog post example:
 
